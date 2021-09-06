@@ -1,1 +1,1 @@
-print("initial origin master");
+print("initial commit");
